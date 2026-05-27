@@ -1,0 +1,11 @@
+sentence id,text,sentiment,topic,tfidf_cosine_topic,tfidf_cosine_score,tfidf_svm_topic
+0,It took eight years for Warner Brothers to recover from the disaster that was this movie.,negative,movie,movie,0.14855447098127708,movie
+1,All the New York University students love this diner in Soho so it makes for a fun young atmosphere.,positive,restaurant,restaurant,0.29172998299578906,restaurant
+2,"This Italian place is really trendy but they have forgotten about the most important part of a restaurant, the food.",negative,restaurant,restaurant,0.32616403652672105,restaurant
+3,"In conclusion, my review of this book would be: I like Jane Austen and understand why she is famous.",positive,book,book,0.3250813204932271,book
+4,The story of this movie is focused on Carl Brashear played by Cuba Gooding Jr. who wants to be the first African American deep sea diver in the Navy.,neutral,movie,movie,0.2810154104740791,movie
+5,"Chris O'Donnell stated that while filming for this movie, he felt like he was in a toy commercial.",neutral,movie,movie,0.25730389143108834,movie
+6,"My husband and I moved to Amsterdam 6 years ago and for as long as we have lived here, Blauwbrug has been our favorite place to eat!",positive,restaurant,restaurant,0.29172998299578906,restaurant
+7,"Dame Maggie Smith performed her role excellently, as she does in all her movies.",positive,movie,movie,0.25730389143108834,movie
+8,"The new movie by Mr. Kruno was shot in New York, but the story takes place in Los Angeles.",neutral,movie,movie,0.20248437613935277,movie
+9,"I always have loved English novels, but I just couldn't get into this one.",negative,book,book,0.14538078616765024,book
